@@ -1,0 +1,22 @@
+header{
+    border: solid 1px;
+    text-align: center;
+    background-color:cadetblue;
+    color: black;
+}
+
+.container{
+    border: solid 1px red;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap ;
+   gap: 5px;
+  
+  
+}
+.tarjetas{
+    border: solid 1px;
+    width: 15%;
+    text-align: center;
+    
+}
